@@ -1,4 +1,4 @@
-# Task Manager Mobile Application
+# Project Management Mobile Application
 
 ## Getting Started
 
@@ -8,7 +8,6 @@ A few resources to get you started if this is your first Flutter project:
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 # Users
-1) Admin
-2) Manager
-3) Client
-4) Operator
+1) Manager
+2) Operator
+ 
