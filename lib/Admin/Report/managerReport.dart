@@ -53,7 +53,6 @@ class _mnagerReportState extends State<mnagerReport> {
     // managerReportFunc(
     //     "82027796-7695-42eb-b314-5ba0e647c81e", "2021-12-02", "2023-02-02");
     // opendate.text = ""; //set the initial value of text field
-    // closedate.text = "";
     super.initState();
   }
 
